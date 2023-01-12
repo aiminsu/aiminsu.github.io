@@ -1,5 +1,5 @@
 # Basic
-title: AIMIN☕️
+title: AIMIN
 subtitle: 个人博客
 description: 孤舟蓑笠翁，独钓寒江雪。🦅
 # 头像里面的标题
@@ -14,7 +14,7 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    # disqus: leopard
+    disqus: aiminsu
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
